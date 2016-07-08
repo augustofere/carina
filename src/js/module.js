@@ -1,0 +1,1 @@
+angular.module('carina', ['ui.bootstrap', 'ui.router', 'ngCookies']);
